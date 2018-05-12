@@ -1,0 +1,49 @@
+_repo: The-Tunnel-Under-The-World_31979
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    - Alexander, Ed
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 31979-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederick
+    - Pohl, Frederik George, Jr.
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+description: One of the earliest stories set in a landscape of virtual reality, the
+  story portrays the advertising industry and its ethic in a fashion which seems surrealistic.
+  But that surrealism is only a cover for an absolute and grim reality
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Tunnel Under the World
+url: http://www.gutenberg.org/ebooks/31979
